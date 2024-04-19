@@ -1,3 +1,20 @@
 body{
     background: white;
 }
+.tagimg {
+    background-image: url(/website/assets/img/bg.jpg);
+    background-size: cover;
+    height: 800px;
+}
+
+.text {
+    height: 400px;
+}
+
+.will {
+    font-size: 110px;
+}
+
+.one {
+    font-size: 180px;
+}

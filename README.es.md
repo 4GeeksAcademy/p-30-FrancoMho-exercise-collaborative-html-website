@@ -68,14 +68,15 @@ Este y otros proyectos son usados para [aprender a programar](https://4geeksacad
 SECCIONES
 
 Jusseff:
-- Navbar
-- Tagline
+- Navbar.html
+- Tagline.html
 
 Kevin:
-- First Heading
-- Second Heading
+- First Heading.html
+- Second Heading.html
 
 Francisco:
-- Porfolio
-- Contact
-- Footer
+- Porfolio.html
+- Contact.html
+- Footer.html
+
